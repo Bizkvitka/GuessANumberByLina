@@ -1,6 +1,6 @@
 # Guess A Number
 
-Guess A Number is a console game where the player tries to guess a randomly generated number within a specified range.
+*Guess A Number is a console game where the player tries to guess a randomly generated number within a specified range.*
 
 How to Play❓
     Run the script guess_number.py in your PyCharm.
@@ -26,7 +26,7 @@ To run the game locally, make sure you have Python installed on your system.
 License:
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range    🎉 (✿◠‿◠) 🎉 
+*Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range.*    🎉 (✿◠‿◠) 🎉 
 
 # Live Demo
 You can play the game directly to your web browser here:
