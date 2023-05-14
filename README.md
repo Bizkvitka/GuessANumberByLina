@@ -29,12 +29,11 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 *Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range.*    🎉 (✿◠‿◠) 🎉 
 
 # Live Demo
-You can play the game directly to your web browser here:
+You can play the game directly to your web browser here: ➡️
 https://replit.com/@linalevcheva/Guess-A-Number?v=1
  
  
 <img width="805" alt="Screenshot 2023-05-13 at 8 53 14" src="https://github.com/Bizkvitka/GuessANumberByLina/assets/120010873/2739cc38-a901-4bc0-8d7d-f0eca2d66a89">
 
 
-
-  
+![Github Gist stars](https://img.shields.io/github/gist/stars/L1NA1/GuessANumberByLina/edit/main/README.md?style=social)
