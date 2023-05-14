@@ -33,4 +33,11 @@ You can play the game directly to your web browser here: ➡️ https://replit.c
  
 Or click the play button ⬇️
 
-[![GuessANumberByLina](https://user-images.githubusercontent.com/120010873/238123189-2739cc38-a901-4bc0-8d7d-f0eca2d66a89.png)](https://replit.com/@linalevcheva/Guess-A-Number?v=1/)
+
+<a href="https://replit.com/@linalevcheva/Guess-A-Number?v=1/">
+  <img src="https://user-images.githubusercontent.com/120010873/238123189-2739cc38-a901-4bc0-8d7d-f0eca2d66a89.png" alt="GuessANumberByLina" width="500px">
+</a>
+
+
+
+
