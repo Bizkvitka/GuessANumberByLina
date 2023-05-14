@@ -2,6 +2,9 @@
 
 *Guess A Number is a console game where the player tries to guess a randomly generated number within a specified range.*
 
+![kij](https://github.com/L1NA1/GuessANumberByLina/assets/120010873/5aef63b3-5ab3-4aa5-8b49-c24ef02ae9e7)
+
+
 How to Play❓
     Run the script guess_number.py in your PyCharm.
     The game will display a welcome message and prompt you to guess a number.
@@ -29,7 +32,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 *Enjoy playing "Guess A Number" and have fun trying to guess the correct number within the given range.*    🎉 (✿◠‿◠) 🎉 
 
 # Live Demo
-You can play the game directly to your web browser here: ➡️ https://replit.com/@linalevcheva/Guess-A-Number?v=1
+You can play the game directly in your web browser here: ➡️ https://replit.com/@linalevcheva/Guess-A-Number?v=1
  
 Or click the play button ⬇️
 
